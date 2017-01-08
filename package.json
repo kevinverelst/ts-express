@@ -1,0 +1,31 @@
+{
+  "name": "ts-express",
+  "version": "1.0.0",
+  "description": "Making an express server with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinverelst/ts-express.git"
+  },
+  "author": "Kevin Verelst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinverelst/ts-express/issues"
+  },
+  "homepage": "https://github.com/kevinverelst/ts-express#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "@types/debug": "0.0.29",
+    "@types/express": "^4.0.33",
+    "@types/node": "^6.0.46",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.1",
+    "typescript": "^2.0.6"
+  }
+}
